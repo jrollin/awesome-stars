@@ -123,6 +123,7 @@
 - [ariannedee/python-level-2](https://github.com/ariannedee/python-level-2) - Programming with Python: Beyond the Basics
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [Phantas0s/alexandria-library](https://github.com/Phantas0s/alexandria-library) - 📝 My method to capture, study, and recall interesting knowledge
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [dojo-developpement-paris/dojo-developpement-paris.github.io](https://github.com/dojo-developpement-paris/dojo-developpement-paris.github.io) - Le dojo développement de Paris
 
 ## Haskell 
@@ -194,7 +195,6 @@
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [tpierrain/writings](https://github.com/tpierrain/writings) - A repo with some of our writings about software
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [publicissapient-france/recruitment-tests](https://github.com/publicissapient-france/recruitment-tests) - Xebia's Recruitment Exercises
 - [err0r500/foundational-knowledge-for-programmers](https://github.com/err0r500/foundational-knowledge-for-programmers) - List of resources about foundational knowledge for programmers (supposed to last a few decades)
 - [cncf/toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
