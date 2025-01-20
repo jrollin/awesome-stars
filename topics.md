@@ -712,6 +712,7 @@
 
 ## others 
 
+- [danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice Problems
 - [biozz/whop.nvim](https://github.com/biozz/whop.nvim) - Whop your snippets with custom commands
 - [algora-io/tv](https://github.com/algora-io/tv) - Open source Twitch for developers
 - [ferrous-systems/teaching-material](https://github.com/ferrous-systems/teaching-material) - 
