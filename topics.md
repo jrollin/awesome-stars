@@ -746,7 +746,6 @@
 - [dgageot/demoit](https://github.com/dgageot/demoit) - Live coding demos without Context Switching
 - [apt-42/resources](https://github.com/apt-42/resources) - A selection of resources to learn infosec
 - [Neotron-Compute/Neotron-Book](https://github.com/Neotron-Compute/Neotron-Book) - A user manual and technical reference for the Neotron family
-- [akaylee/42-holygraph](https://github.com/akaylee/42-holygraph) - This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021.
 - [jean553/rust-exam](https://github.com/jean553/rust-exam) - A set of RUST programming questions.
 - [PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition](https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition) - Modern Computer Architecture and Organization – Second Edition, Published by Packt
 - [mmstick/gtkrs-tutorials](https://github.com/mmstick/gtkrs-tutorials) - 2021 Tutorial for GTK-rs
