@@ -45,7 +45,6 @@
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [microsoft/ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
-- [akaylee/42-holygraph](https://github.com/akaylee/42-holygraph) - This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021.
 - [evgenkarlson/ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42) - | SCHOOL_42_UPDATE 2020 | This repository contains ALL PROJECTS, TASKS AND SUBJECTS  OF THE MAIN PROGRAM OF LEARNING AT SCHOOL 42 ( Program | Course | Programing | Coding | School 42 | Ecole 42 | Scho
 - [0015/ThatProject](https://github.com/0015/ThatProject) - *That Project's project repository
 - [G6EJD/ESP32-e-Paper-Weather-Display](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display) - An ESP32 and 2.9", 4.2" or 7.5" ePaper Display reads Weather Underground data via their API and then displays the weather
