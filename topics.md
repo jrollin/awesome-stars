@@ -727,7 +727,6 @@
 - [ddprrt/microservice-rust-workshop](https://github.com/ddprrt/microservice-rust-workshop) - Contents for my Workshop Microservices with Rust and Tokio
 - [jeff-hughes/shellcaster](https://github.com/jeff-hughes/shellcaster) - Terminal-based podcast manager built in Rust
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
-- [rphlr/42-Evals](https://github.com/rphlr/42-Evals) - A curated collection of official 42 School evaluation sheets 📄✅, complete with a user-friendly web interface for streamlined navigation and self-assessment. 🖥️🚀 Explore, prepare, and excel in your pee
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [ThePrimeagen/fem-algos](https://github.com/ThePrimeagen/fem-algos) - FrontEnd Master algorithms!
 - [angiejones/frontendmasters-java-fundamentals](https://github.com/angiejones/frontendmasters-java-fundamentals) - 
