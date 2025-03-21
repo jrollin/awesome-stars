@@ -169,6 +169,7 @@
 
 ## Others 
 
+- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [nnja/advanced-git](https://github.com/nnja/advanced-git) - Frontend Masters Advanced Git - by Nina Zakharenko
 - [hackernoon/learn](https://github.com/hackernoon/learn) - The place to learn about the top technology, programming, web3, business, media, gaming, data science, finance, and cybersecurity stories from around the internet!
