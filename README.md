@@ -111,6 +111,7 @@
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [wescale/kubernetes-formation](https://github.com/wescale/kubernetes-formation) - 
 - [nicholasjackson/building-microservices-youtube](https://github.com/nicholasjackson/building-microservices-youtube) - Code repository for my Building Microservices YouTube series https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_
+- [cncf/toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
 
 ## HTML 
 
@@ -191,7 +192,6 @@
 - [tpierrain/writings](https://github.com/tpierrain/writings) - A repo with some of our writings about software
 - [publicissapient-france/recruitment-tests](https://github.com/publicissapient-france/recruitment-tests) - Xebia's Recruitment Exercises
 - [err0r500/foundational-knowledge-for-programmers](https://github.com/err0r500/foundational-knowledge-for-programmers) - List of resources about foundational knowledge for programmers (supposed to last a few decades)
-- [cncf/toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
 - [tanc7/hacking-books](https://github.com/tanc7/hacking-books) - 
 
 ## PHP 
