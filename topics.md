@@ -415,6 +415,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) - Embedded Linux embedding for Flutter
 - [0015/ThatProject](https://github.com/0015/ThatProject) - *That Project's project repository
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## flutter-apps 
 
