@@ -119,7 +119,6 @@
 - [ariannedee/python-level-2](https://github.com/ariannedee/python-level-2) - Programming with Python: Beyond the Basics
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [Phantas0s/alexandria-library](https://github.com/Phantas0s/alexandria-library) - 📝 My method to capture, study, and recall interesting knowledge
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [dojo-developpement-paris/dojo-developpement-paris.github.io](https://github.com/dojo-developpement-paris/dojo-developpement-paris.github.io) - Le dojo développement de Paris
 
 ## Haskell 
@@ -215,6 +214,7 @@
 - [lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [crypto101/book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 
 ## Ruby 
