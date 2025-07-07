@@ -758,7 +758,6 @@
 - [jean553/rust-exam](https://github.com/jean553/rust-exam) - A set of RUST programming questions.
 - [PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition](https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition) - Modern Computer Architecture and Organization – Second Edition, Published by Packt
 - [mmstick/gtkrs-tutorials](https://github.com/mmstick/gtkrs-tutorials) - 2021 Tutorial for GTK-rs
-- [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
 - [solareenlo/42tools](https://github.com/solareenlo/42tools) - Making 42 life better
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [alexislozano/pokedex](https://github.com/alexislozano/pokedex) - Hexagonal architecture example in Rust
@@ -840,6 +839,7 @@
 ## productivity 
 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - h-m-m, or Hackers Mind Map, is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
 
 ## programming 
 
