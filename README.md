@@ -21,6 +21,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -155,6 +156,10 @@
 - [CleverCloud/clever-components](https://github.com/CleverCloud/clever-components) - Collection of Web Components by Clever Cloud
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2024)
+
+## Jupyter Notebook 
+
+- [OrangeAVA/Ultimate-Rust-for-Systems-Programming](https://github.com/OrangeAVA/Ultimate-Rust-for-Systems-Programming) - Ultimate Rust for Systems Programming, published by Orange, AVA™
 
 ## Lua 
 
