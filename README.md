@@ -120,7 +120,6 @@
 - [ariannedee/python-level-2](https://github.com/ariannedee/python-level-2) - Programming with Python: Beyond the Basics
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [Phantas0s/alexandria-library](https://github.com/Phantas0s/alexandria-library) - 📝 My method to capture, study, and recall interesting knowledge
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [dojo-developpement-paris/dojo-developpement-paris.github.io](https://github.com/dojo-developpement-paris/dojo-developpement-paris.github.io) - Le dojo développement de Paris
 
 ## Haskell 
@@ -272,6 +271,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [Enet4/dicom-rs](https://github.com/Enet4/dicom-rs) - Rust implementation of the DICOM standard
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [szymonwieloch/rust-rawsock](https://github.com/szymonwieloch/rust-rawsock) - Rust library for obtaining and sending raw network packets from interfaces.
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
 - [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
