@@ -354,6 +354,7 @@
 
 ## docker 
 
+- [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
@@ -562,6 +563,7 @@
 
 ## kubernetes 
 
+- [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [traefik-workshops/traefik-workshop](https://github.com/traefik-workshops/traefik-workshop) - Getting started with Traefik on Kubernetes. A few exercises that help you to start the journey with Traefik Proxy.
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
