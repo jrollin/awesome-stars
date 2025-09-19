@@ -182,6 +182,7 @@
 
 ## api 
 
+- [pingooio/pingoo](https://github.com/pingooio/pingoo) - The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io
 - [ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way) - Learn NodeJS and master the art of server-side programming by creating a backend framework with 0 dependencies.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -918,6 +919,7 @@
 
 ## rust 
 
+- [pingooio/pingoo](https://github.com/pingooio/pingoo) - The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 - [Rahix/avr-hal](https://github.com/Rahix/avr-hal) - embedded-hal abstractions for AVR microcontrollers
 - [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework.
@@ -973,6 +975,7 @@
 
 ## security 
 
+- [pingooio/pingoo](https://github.com/pingooio/pingoo) - The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io
 - [algolia/sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
