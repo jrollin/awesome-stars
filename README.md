@@ -233,6 +233,7 @@
 
 ## Rust 
 
+- [pingooio/pingoo](https://github.com/pingooio/pingoo) - The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io
 - [Rahix/avr-hal](https://github.com/Rahix/avr-hal) - embedded-hal abstractions for AVR microcontrollers
 - [ferrous-systems/teaching-material](https://github.com/ferrous-systems/teaching-material) - 
 - [prefix-dev/archspec-rs](https://github.com/prefix-dev/archspec-rs) - A library to track system architecture aspects incl. processor family & co, Rust implementation
