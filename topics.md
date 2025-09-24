@@ -148,6 +148,7 @@
 - [web](#web)
 - [web-components](#web-components)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -1115,6 +1116,10 @@
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) - Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [sonos-web/sonos-web](https://github.com/sonos-web/sonos-web) - Sonos controller for your web browser
+
+## zsh 
+
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 
 
 ## License
