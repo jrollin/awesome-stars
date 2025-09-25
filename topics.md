@@ -27,6 +27,7 @@
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [code](#code)
 - [coding](#coding)
 - [compiler](#compiler)
@@ -268,6 +269,12 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
+## cloud 
+
+- [redhuntlabs/Octopii](https://github.com/redhuntlabs/Octopii) - An AI-powered Personal Identifiable Information (PII) scanner.
+- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
+- [cncf/toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
 
 ## code 
 
@@ -732,7 +739,7 @@
 
 - [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for
 - [OrangeAVA/Ultimate-Rust-for-Systems-Programming](https://github.com/OrangeAVA/Ultimate-Rust-for-Systems-Programming) - Ultimate Rust for Systems Programming, published by Orange, AVA™
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice Problems
 - [biozz/whop.nvim](https://github.com/biozz/whop.nvim) - Whop your snippets with custom commands
 - [algora-io/tv](https://github.com/algora-io/tv) - Open source Twitch for developers
@@ -810,7 +817,6 @@
 - [tpierrain/hexagonalThis](https://github.com/tpierrain/hexagonalThis) - A simple kata to live-code with Alistair about Hexagonal Architecture
 - [wescale/kubernetes-formation](https://github.com/wescale/kubernetes-formation) - 
 - [celinegilet/happy-town](https://github.com/celinegilet/happy-town) - Hands-On : D’une architecture N-Tiers à une architecture Clean Hexagonale
-- [cncf/toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
 - [crypto101/book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [tanc7/hacking-books](https://github.com/tanc7/hacking-books) - 
