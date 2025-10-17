@@ -384,6 +384,7 @@
 
 ## education 
 
+- [mdn/curriculum](https://github.com/mdn/curriculum) - MDN front-end developer curriculum
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -590,6 +591,7 @@
 ## learning 
 
 - [ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way) - Learn NodeJS and master the art of server-side programming by creating a backend framework with 0 dependencies.
+- [mdn/curriculum](https://github.com/mdn/curriculum) - MDN front-end developer curriculum
 - [hackernoon/learn](https://github.com/hackernoon/learn) - The place to learn about the top technology, programming, web3, business, media, gaming, data science, finance, and cybersecurity stories from around the internet!
 - [Phantas0s/alexandria-library](https://github.com/Phantas0s/alexandria-library) - 📝 My method to capture, study, and recall interesting knowledge
 
@@ -759,7 +761,6 @@
 - [farabimahmud/emulate-raspberry-pi3-in-qemu](https://github.com/farabimahmud/emulate-raspberry-pi3-in-qemu) - I have tried to figure out a way to run raspberry pi using QEMU but could not. So here I am putting all the references I have pieced together that should just work out of the box.
 - [ariannedee/python-level-2](https://github.com/ariannedee/python-level-2) - Programming with Python: Beyond the Basics
 - [lerocha/chinook-database](https://github.com/lerocha/chinook-database) - Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2
-- [mdn/curriculum](https://github.com/mdn/curriculum) - MDN front-end developer curriculum
 - [qiao/PathFinding.js](https://github.com/qiao/PathFinding.js) - A comprehensive path-finding library for grid based games
 - [ddprrt/microservice-rust-workshop](https://github.com/ddprrt/microservice-rust-workshop) - Contents for my Workshop Microservices with Rust and Tokio
 - [jeff-hughes/shellcaster](https://github.com/jeff-hughes/shellcaster) - Terminal-based podcast manager built in Rust
