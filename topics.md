@@ -149,6 +149,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
+- [web-development](#web-development)
 - [windows](#windows)
 - [zsh](#zsh)
 
@@ -1121,6 +1122,10 @@
 ## web-components 
 
 - [CleverCloud/clever-components](https://github.com/CleverCloud/clever-components) - Collection of Web Components by Clever Cloud
+
+## web-development 
+
+- [mdn/curriculum](https://github.com/mdn/curriculum) - MDN front-end developer curriculum
 
 ## windows 
 
