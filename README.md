@@ -64,7 +64,7 @@
 
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [ndipatri/RoboGaggia](https://github.com/ndipatri/RoboGaggia) - 
-- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
+- [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) - Embedded Linux embedding for Flutter
 - [alvarowolfx/wasm-arduino-wifi](https://github.com/alvarowolfx/wasm-arduino-wifi) - Running TinyGo/Rust/Assemblyscript on an ESP32 using WebAssembly.
 - [swkBerlin/kata-bootstraps](https://github.com/swkBerlin/kata-bootstraps) - Empty projects for different languages with a failing test
