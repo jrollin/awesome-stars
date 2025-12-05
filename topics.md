@@ -692,7 +692,7 @@
 ## music 
 
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
-- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
+- [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
 
 ## mysql 
