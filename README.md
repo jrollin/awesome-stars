@@ -297,7 +297,7 @@
 - [d-plaindoux/rust-traits](https://github.com/d-plaindoux/rust-traits) - [Talk] Programmation par Traits sous l'influence de la gestion mémoire
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
-- [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - A pure Rust implementation of WebRTC
+- [webrtc-rs/webrtc](https://github.com/webrtc-rs/webrtc) - Async-friendly WebRTC implementation in Rust
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [brest-computer-club/knowledge](https://github.com/brest-computer-club/knowledge) - transform a folder full of markdown files into a knowledge base
 
