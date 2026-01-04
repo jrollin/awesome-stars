@@ -782,7 +782,7 @@
 ## others 
 
 - [ferrous-systems/rust-training](https://github.com/ferrous-systems/rust-training) - Learning materials for the Rust Training courses by Ferrous Systems
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for
 - [OrangeAVA/Ultimate-Rust-for-Systems-Programming](https://github.com/OrangeAVA/Ultimate-Rust-for-Systems-Programming) - Ultimate Rust for Systems Programming, published by Orange, AVA™
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
