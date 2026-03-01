@@ -794,7 +794,7 @@
 - [danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice Problems
 - [biozz/whop.nvim](https://github.com/biozz/whop.nvim) - Whop your snippets with custom commands
 - [ferrous-systems/teaching-material](https://github.com/ferrous-systems/teaching-material) - 
-- [prefix-dev/archspec-rs](https://github.com/prefix-dev/archspec-rs) - A library to track system architecture aspects incl. processor family & co, Rust implementation
+- [archspec/archspec-rs](https://github.com/archspec/archspec-rs) - A library to track system architecture aspects incl. processor family & co, Rust implementation
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [ndipatri/RoboGaggia](https://github.com/ndipatri/RoboGaggia) - 
