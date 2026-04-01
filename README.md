@@ -67,7 +67,6 @@
 - [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) - Embedded Linux embedding for Flutter
 - [alvarowolfx/wasm-arduino-wifi](https://github.com/alvarowolfx/wasm-arduino-wifi) - Running TinyGo/Rust/Assemblyscript on an ESP32 using WebAssembly.
-- [swkBerlin/kata-bootstraps](https://github.com/swkBerlin/kata-bootstraps) - Empty projects for different languages with a failing test
 
 ## CSS 
 
@@ -105,7 +104,7 @@
 
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [algolia/sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -153,6 +152,7 @@
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [dgageot/demoit](https://github.com/dgageot/demoit) - Live coding demos without Context Switching
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsor
+- [swkBerlin/kata-bootstraps](https://github.com/swkBerlin/kata-bootstraps) - Empty projects for different languages with a failing test
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [CleverCloud/clever-components](https://github.com/CleverCloud/clever-components) - Collection of Web Components by Clever Cloud
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
@@ -266,7 +266,7 @@
 - [SergioBenitez/Figment](https://github.com/SergioBenitez/Figment) - A hierarchical configuration library so con-free, it's unreal.
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) - Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
 - [anssip/passlane](https://github.com/anssip/passlane) - A lightning-fast password generator and manager written in Rust
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 - [lobaro/FreeRTOS-rust](https://github.com/lobaro/FreeRTOS-rust) - Rust crate for FreeRTOS
 - [esp-rs/espup](https://github.com/esp-rs/espup) - Tool for installing and maintaining Espressif Rust ecosystem.
