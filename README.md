@@ -75,7 +75,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## Dart 
@@ -179,6 +179,7 @@
 
 ## Others 
 
+- [CodingChallengesFYI/SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [nnja/advanced-git](https://github.com/nnja/advanced-git) - Frontend Masters Advanced Git - by Nina Zakharenko
@@ -220,7 +221,7 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [redhuntlabs/Octopii](https://github.com/redhuntlabs/Octopii) - An AI-powered Personal Identifiable Information (PII) scanner.
 - [yesteph/hands-on-nix](https://github.com/yesteph/hands-on-nix) - 
-- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor Network Traffic Per Executable, Beautifully Visualized
+- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch) - Monitor network traffic per executable
 - [lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
