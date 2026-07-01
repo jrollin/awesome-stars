@@ -77,6 +77,7 @@
 - [haskell](#haskell)
 - [html](#html)
 - [http](#http)
+- [https](#https)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
@@ -133,6 +134,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
@@ -176,6 +178,7 @@
 
 ## ai 
 
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -283,12 +286,13 @@
 
 ## claude-code 
 
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 
 ## cli 
 
-- [jrollin/cartog](https://github.com/jrollin/cartog) - claude code with treesitter, RAG query, MCP server, private storage
+- [jrollin/cartog](https://github.com/jrollin/cartog) - Pre-indexed code knowledge graph via treesitter, enchanced query with RAG, MCP server, private and local storage. Agent ready.
 - [microsoft/ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -303,7 +307,7 @@
 ## clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## cloud 
 
@@ -399,7 +403,7 @@
 
 ## design 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## developer-tools 
 
@@ -415,6 +419,7 @@
 
 ## distributed-systems 
 
+- [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 
 ## docker 
@@ -466,13 +471,13 @@
 
 ## es6 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 
 ## eslint 
 
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [kentcdodds/asts-workshop](https://github.com/kentcdodds/asts-workshop) - Improved productivity 💯 with the practical 🤓 use of the power 💪 of Abstract Syntax Trees 🌳 to lint ⚠️ and transform 🔀 your code
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 
 ## esp32 
 
@@ -483,7 +488,7 @@
 ## express 
 
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 
 ## firebase 
@@ -520,6 +525,7 @@
 
 ## go 
 
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [swkBerlin/kata-bootstraps](https://github.com/swkBerlin/kata-bootstraps) - Empty projects for different languages with a failing test
 - [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
@@ -530,6 +536,7 @@
 
 ## golang 
 
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [algolia/sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -581,8 +588,13 @@
 
 ## http 
 
+- [plabayo/rama](https://github.com/plabayo/rama) - modular service framework to move and transform network packets
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
+
+## https 
+
+- [plabayo/rama](https://github.com/plabayo/rama) - modular service framework to move and transform network packets
 
 ## image-processing 
 
@@ -627,7 +639,7 @@
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 
 ## json 
@@ -726,12 +738,12 @@
 
 ## mcp 
 
-- [jrollin/cartog](https://github.com/jrollin/cartog) - claude code with treesitter, RAG query, MCP server, private storage
+- [jrollin/cartog](https://github.com/jrollin/cartog) - Pre-indexed code knowledge graph via treesitter, enchanced query with RAG, MCP server, private and local storage. Agent ready.
 
 ## microservices 
 
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [nicholasjackson/building-microservices-youtube](https://github.com/nicholasjackson/building-microservices-youtube) - Code repository for my Building Microservices YouTube series https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_
 
 ## mobile 
@@ -790,15 +802,17 @@
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 - [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync) - Virtual cables between any audio source and any speaker in your home
 - [SketchingDev/hexagonal-lambda](https://github.com/SketchingDev/hexagonal-lambda) - An example of writing a Lambda using an hexagonal (ports and adaptors) architecture
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 
 ## npm 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 
 ## open-source 
 
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, inter
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
 ## openai 
@@ -821,12 +835,13 @@
 
 ## others 
 
+- [turbopuffer/search-benchmark-game](https://github.com/turbopuffer/search-benchmark-game) - Search engine benchmark (Tantivy, Lucene, PISA, ...)
 - [stevekinney/canonize](https://github.com/stevekinney/canonize) - 
 - [ferrous-systems/rust-training](https://github.com/ferrous-systems/rust-training) - Learning materials for the Rust Training courses by Ferrous Systems
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for
 - [OrangeAVA/Ultimate-Rust-for-Systems-Programming](https://github.com/OrangeAVA/Ultimate-Rust-for-Systems-Programming) - Ultimate Rust for Systems Programming, published by Orange, AVA™
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [danielbeach/data-engineering-practice](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice Problems
 - [biozz/whop.nvim](https://github.com/biozz/whop.nvim) - Whop your snippets with custom commands
 - [ferrous-systems/teaching-material](https://github.com/ferrous-systems/teaching-material) - 
@@ -977,7 +992,7 @@
 
 ## rag 
 
-- [jrollin/cartog](https://github.com/jrollin/cartog) - claude code with treesitter, RAG query, MCP server, private storage
+- [jrollin/cartog](https://github.com/jrollin/cartog) - Pre-indexed code knowledge graph via treesitter, enchanced query with RAG, MCP server, private and local storage. Agent ready.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 
 ## raspberry-pi 
@@ -992,7 +1007,7 @@
 - [cruip/tailwind-dashboard-template](https://github.com/cruip/tailwind-dashboard-template) - Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
+- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
@@ -1000,6 +1015,10 @@
 ## reactjs 
 
 - [cruip/tailwind-dashboard-template](https://github.com/cruip/tailwind-dashboard-template) - Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by
+
+## redteam 
+
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## reverse-engineering 
 
@@ -1014,7 +1033,8 @@
 
 ## rust 
 
-- [jrollin/cartog](https://github.com/jrollin/cartog) - claude code with treesitter, RAG query, MCP server, private storage
+- [plabayo/rama](https://github.com/plabayo/rama) - modular service framework to move and transform network packets
+- [jrollin/cartog](https://github.com/jrollin/cartog) - Pre-indexed code knowledge graph via treesitter, enchanced query with RAG, MCP server, private and local storage. Agent ready.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [pingooio/pingoo](https://github.com/pingooio/pingoo) - The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
@@ -1029,7 +1049,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
+- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support
 - [y-crdt/y-crdt](https://github.com/y-crdt/y-crdt) - Rust port of Yjs
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [tantaraio/voy](https://github.com/tantaraio/voy) - 🕸️🦀 A WASM vector similarity search written in Rust
@@ -1100,7 +1120,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
-- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
+- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support
 
 ## server 
 
@@ -1159,7 +1179,7 @@
 
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 
 ## tui 
@@ -1189,7 +1209,7 @@
 
 ## ui 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 
 ## video 
