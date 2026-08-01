@@ -51,7 +51,7 @@
 - [0015/ThatProject](https://github.com/0015/ThatProject) - *That Project's project repository
 - [G6EJD/ESP32-e-Paper-Weather-Display](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display) - An ESP32 and 2.9", 4.2" or 7.5" ePaper Display reads Weather Underground data via their API and then displays the weather
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
-- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+- [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 - [bztsrc/raspi3-tutorial](https://github.com/bztsrc/raspi3-tutorial) - Bare metal Raspberry Pi 3 tutorials
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 
@@ -138,6 +138,7 @@
 
 ## JavaScript 
 
+- [ljacobsson/cfn-diagram](https://github.com/ljacobsson/cfn-diagram) - CLI tool to visualise CloudFormation/SAM/CDK stacks as visjs networks, draw.io or ascii-art diagrams.
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [cruip/tailwind-dashboard-template](https://github.com/cruip/tailwind-dashboard-template) - Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
@@ -147,7 +148,6 @@
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 - [wakidurrahman/JavaScript-Algorithms-And-Data-Structures](https://github.com/wakidurrahman/JavaScript-Algorithms-And-Data-Structures) - JavaScript based Data-Structures and Algorithms to be used for learning and researching purposes only. Here I had used Unit test, Code coverage and also at future I will setup snapshot test. This proj
 - [jamsocket/aper](https://github.com/jamsocket/aper) - Synchronizable structs for Rust.
-- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [kentcdodds/asts-workshop](https://github.com/kentcdodds/asts-workshop) - Improved productivity 💯 with the practical 🤓 use of the power 💪 of Abstract Syntax Trees 🌳 to lint ⚠️ and transform 🔀 your code
 - [ThePrimeagen/fem-algos](https://github.com/ThePrimeagen/fem-algos) - FrontEnd Master algorithms!
 - [ThePrimeagen/vim-fundamentals](https://github.com/ThePrimeagen/vim-fundamentals) - 
@@ -157,6 +157,7 @@
 - [swkBerlin/kata-bootstraps](https://github.com/swkBerlin/kata-bootstraps) - Empty projects for different languages with a failing test
 - [pa11y/pa11y](https://github.com/pa11y/pa11y) - Pa11y is your automated accessibility testing pal
 - [CleverCloud/clever-components](https://github.com/CleverCloud/clever-components) - Collection of Web Components by Clever Cloud
+- [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 
@@ -181,6 +182,7 @@
 
 ## Others 
 
+- [WH-2099/mermaid-skill](https://github.com/WH-2099/mermaid-skill) - A Claude Code skill for generating Mermaid diagrams with all diagram types supported.
 - [CodingChallengesFYI/SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
@@ -211,7 +213,6 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [nadrad/h-m-m](https://github.com/nadrad/h-m-m) - h-m-m, or Hackers Mind Map, is a simple, fast, keyboard-centric terminal-based tool for working with mind maps.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
-- [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 
 ## Python 
 
@@ -238,11 +239,11 @@
 
 ## Rust 
 
+- [jrollin/cartog](https://github.com/jrollin/cartog) - Pre-indexed code knowledge graph via treesitter, enchanced query with RAG, MCP server, private and local storage. Agent ready.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
 - [plabayo/rama](https://github.com/plabayo/rama) - modular service framework to move and transform network packets
 - [turbopuffer/search-benchmark-game](https://github.com/turbopuffer/search-benchmark-game) - Search engine benchmark (Tantivy, Lucene, PISA, ...)
-- [jrollin/cartog](https://github.com/jrollin/cartog) - Pre-indexed code knowledge graph via treesitter, enchanced query with RAG, MCP server, private and local storage. Agent ready.
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [ferrous-systems/rust-training](https://github.com/ferrous-systems/rust-training) - Learning materials for the Rust Training courses by Ferrous Systems
 - [pingooio/pingoo](https://github.com/pingooio/pingoo) - The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io
@@ -349,6 +350,7 @@
 - [stevekinney/supertasker](https://github.com/stevekinney/supertasker) - 
 - [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
