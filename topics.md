@@ -27,6 +27,7 @@
 - [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -89,6 +90,7 @@
 - [language](#language)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [linux](#linux)
 - [llm](#llm)
@@ -122,6 +124,7 @@
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
+- [phishing](#phishing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
@@ -283,6 +286,11 @@
 ## chatgpt 
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+
+## claude 
+
+- [jrollin/cartog](https://github.com/jrollin/cartog) - Pre-indexed code knowledge graph via treesitter, enchanced query with RAG, MCP server, private and local storage. Agent ready.
+- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 
 ## claude-code 
 
@@ -467,7 +475,7 @@
 - [esp-rs/espup](https://github.com/esp-rs/espup) - Tool for installing and maintaining Espressif Rust ecosystem.
 - [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
-- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+- [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 
 ## es6 
 
@@ -608,7 +616,7 @@
 ## iot 
 
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
-- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+- [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
 
 ## java 
 
@@ -672,6 +680,10 @@
 ## latex 
 
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
+
+## learn-to-code 
+
+- [ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way) - Learn NodeJS and master the art of server-side programming by creating a backend framework with 0 dependencies.
 
 ## learning 
 
@@ -835,6 +847,8 @@
 
 ## others 
 
+- [ljacobsson/cfn-diagram](https://github.com/ljacobsson/cfn-diagram) - CLI tool to visualise CloudFormation/SAM/CDK stacks as visjs networks, draw.io or ascii-art diagrams.
+- [WH-2099/mermaid-skill](https://github.com/WH-2099/mermaid-skill) - A Claude Code skill for generating Mermaid diagrams with all diagram types supported.
 - [turbopuffer/search-benchmark-game](https://github.com/turbopuffer/search-benchmark-game) - Search engine benchmark (Tantivy, Lucene, PISA, ...)
 - [stevekinney/canonize](https://github.com/stevekinney/canonize) - 
 - [ferrous-systems/rust-training](https://github.com/ferrous-systems/rust-training) - Learning materials for the Rust Training courses by Ferrous Systems
@@ -941,6 +955,10 @@
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 
+## phishing 
+
+- [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
+
 ## php 
 
 - [NoiseByNorthwest/php-spx](https://github.com/NoiseByNorthwest/php-spx) - A simple & straight-to-the-point PHP profiling extension with its built-in web UI
@@ -1033,8 +1051,8 @@
 
 ## rust 
 
-- [plabayo/rama](https://github.com/plabayo/rama) - modular service framework to move and transform network packets
 - [jrollin/cartog](https://github.com/jrollin/cartog) - Pre-indexed code knowledge graph via treesitter, enchanced query with RAG, MCP server, private and local storage. Agent ready.
+- [plabayo/rama](https://github.com/plabayo/rama) - modular service framework to move and transform network packets
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [pingooio/pingoo](https://github.com/pingooio/pingoo) - The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
